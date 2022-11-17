@@ -113,12 +113,6 @@ h2 {
   text-align: center;
 }
 
-.rectangle {
-  height: 50px;
-  width: 100px;
-  background-color: #555;
-}
-
 .group {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -149,7 +143,7 @@ h2 {
   text-align: center;
   margin-top: -3%;
   color: #fff;
-} 
+}
 
 .details {
   height: 2cm;
@@ -162,9 +156,6 @@ h2 {
 .info {
   margin: 50px;
   line-gap-override: 30cm;
-}
-
-.info {
   color: #00f;
 }
 
