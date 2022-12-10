@@ -1,6 +1,6 @@
 # WEDDING TEMPLATE
 
-# AUTHOR
+## AUTHOR
 BOANONG JOSHUA
 [@boanong](https://github.com/boanong)
 
