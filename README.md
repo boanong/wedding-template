@@ -28,7 +28,7 @@ This is a wedding invitation template. The project was taken as a learning tutor
 ## Clone project
 
 - To get a local copy, follow these simple example steps.
-- Clone this repository with `https://github.com/boanong/wedding-template` using your terminal or command line.
+- Clone this repository with `https://github.com/boanong/wedding-template` using your terminal or command-line.
 
 ## Command-line steps
 
