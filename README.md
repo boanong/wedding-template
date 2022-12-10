@@ -10,19 +10,19 @@ BOANONG JOSHUA
 
 ## About
 
-This is a wedding invitation template. The project was taken as a learning tutorial to help build my html and css skills..
+This is a wedding invitation template. The project was taken as a learning tutorial to help build my HTML and CSS skills.
 
 ## Built With
   this project was built with
-- Html
+- HTML
 - and CSS
 
 ### Prerequisites
 
- you should have Knowledge about:
+ You should have Knowledge about:
 
-- Github
-- css grids and flex box
+- GitHub
+- CSS grids and flex box
 - and an available working browser
 
 ## Clone project
@@ -30,7 +30,7 @@ This is a wedding invitation template. The project was taken as a learning tutor
 - To get a local copy, follow these simple example steps.
 - Clone this repository with `https://github.com/boanong/wedding-template` using your terminal or command line.
 
-## Command line steps
+## Command-line steps
 
 - $ `git clone git@github.com:boanong/wedding-template.git`
 - $ `cd wedding-template`
