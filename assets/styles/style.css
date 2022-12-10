@@ -1,0 +1,305 @@
+body {
+  background-color: #f4e4df;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+.image {
+  background-image: url("../image/wedding.jpg");
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image header {
+  font-size: 4rem;
+  font-weight: lighter;
+  letter-spacing: 1px;
+}
+
+.image .par2 {
+  font-size: 2rem;
+  font-weight: lighter;
+  letter-spacing: 1px;
+}
+
+.date {
+  text-align: center;
+  font-size: 2em;
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+}
+
+.couple {
+  width: 90vw;
+  max-width: 1000px;
+  margin: 70px auto;
+}
+
+.couple p {
+  width: 100%;
+  text-align: left;
+  margin-top: 3rem;
+  font-style: italic;
+  line-height: 30px;
+}
+
+.couple img {
+  filter: grayscale(75%);
+  width: 90vw;
+  max-width: 100%;
+}
+
+.kiss {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  height: 50%;
+  margin-top: 1cm;
+}
+
+.comment {
+  font-size: x-large;
+}
+
+.janejohn {
+  margin: 2rem auto 0.5rem;
+}
+
+.invite {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  margin-top: 50%;
+  padding-top: 3em;
+}
+
+.elipses {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+}
+
+.wedding {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 19%;
+  font-size: 1cm;
+}
+
+.hall {
+  width: 70%;
+  justify-content: center;
+  margin-left: 200px;
+}
+
+.wedding-hall {
+  width: 90vw;
+  max-width: 1000px;
+  margin: 70px auto;
+}
+
+.wedding-hall header {
+  color: gray;
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin: 70px auto;
+}
+
+.when-where {
+  margin: 70px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 80%;
+}
+
+.wedding-hall img {
+  filter: grayscale(75%);
+  width: 90%;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.when {
+  text-align: center;
+  width: 100%;
+}
+
+.where {
+  text-align: center;
+  width: 100%;
+}
+
+.when-where header {
+  font-size: 35px;
+}
+
+.group {
+  margin: auto;
+  padding-top: 5rem;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 5px;
+  background-color: #fdd;
+  height: 10cm;
+  width: 100%;
+}
+
+.hope {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.kindly {
+  margin-top: 1cm;
+}
+
+.make {
+  font-size: 2em;
+}
+
+.rsvp {
+  height: 1.5cm;
+  width: 4cm;
+  background-color: #fb8c6a;
+  border-width: 0;
+  border-radius: 5%;
+  font-weight: 100;
+  margin-top: 1cm;
+}
+
+.rsvp:hover {
+  background-color: grey;
+  color: black;
+}
+
+.rectangle {
+  width: 100%;
+  height: 60px;
+  background: #000016;
+  margin-top: 3cm;
+}
+
+.header {
+  font-size: xx-large;
+}
+
+.info {
+  margin: 50px;
+  color: #00f;
+}
+
+.container {
+  background-image: url("https://www.w3schools.com/w3images/flowers.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+  text-align: center;
+  margin-top: -5%;
+}
+
+.invitation {
+  margin: auto;
+  width: 50%;
+  font-size: 3.5em;
+  text-align: center;
+  padding: 50px 0;
+  display: block;
+  margin-left: auto;
+}
+
+.button {
+  width: 5cm;
+  height: 1.5cm;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 2cm;
+  border-width: 1px;
+  color: white;
+  background-color: #000;
+  font-size: larger;
+  border-radius: 3%;
+}
+
+.button:hover {
+  background-color: #d3e5ee;
+  color: #000;
+}
+
+.text-group {
+  text-align: center;
+}
+
+.details {
+  height: 3cm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  background-color: black;
+  margin-bottom: 1.5%;
+}
+
+.power {
+  text-align: center;
+  color: #fff;
+}
+
+.power a {
+  color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  gap: 8%;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  opacity: 0.5;
+}
+
+.inform {
+  background-color: white;
+  border: 0;
+  width: 230px;
+  height: 35px;
+  display: grid;
+  align-items: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.inform:hover {
+  background-color: grey;
+}
+
+@media screen and (max-width: 600px) {
+  .when-where {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+
+  .contact {
+    display: none;
+  }
+}
